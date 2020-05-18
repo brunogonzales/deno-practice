@@ -1,3 +1,5 @@
+## For more information about Deno please refer to [Deno's Manual](https://deno.land/manual/getting_started/installation).
+
 ## Requirements
 
 - [Deno > 1.0.0](https://deno.land/manual/getting_started/installation)
